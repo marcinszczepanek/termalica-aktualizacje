@@ -1,8 +1,8 @@
 {
-  "numer": 805,
-  "wersja": "v8.5 (2026-10-04)",
-  "url": "https://raw.githubusercontent.com/marcinszczepanek/termalica-aktualizacje/main/firmware-805.bin",
-  "rozmiar": 1288016,
-  "sha256": "6ed4c2b4ed2d3e8bbabbc5c61688f670ee90f43b3e2f82fdcf07a8efcfc08d7d",
-  "podpis": "MEYCIQCEVn3gAAnIUL9JutOdBfm5kDwjpqIY8SmxvRQeX7RE9gIhANz0+7XuP2lLi6kDs0QmsO9vigaUrLYxf6ZiV9bZcyFs"
+  "numer": 807,
+  "wersja": "v8.7 (2026-10-04)",
+  "url": "https://raw.githubusercontent.com/marcinszczepanek/termalica-aktualizacje/main/firmware-807.bin",
+  "rozmiar": 1308960,
+  "sha256": "1fc43edd7d2d7ac42ecce1c052f68a02700e8cbd5ab04f8d89b78bab52de6f3b",
+  "podpis": "MEQCIB9nStuZkdB1FfgF0UFTAqjrfrecwwPD5TEyITBq/lpCAiA8151yLIea0SBcUuB+j7fCBwDOO7CLRCvj1A7pwk9c3g=="
 }
