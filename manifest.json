@@ -1,8 +1,8 @@
 {
-  "numer": 909,
-  "wersja": "v9.9 (2026-10-05)",
-  "url": "https://raw.githubusercontent.com/marcinszczepanek/termalica-aktualizacje/main/firmware-909.bin",
-  "rozmiar": 1331968,
-  "sha256": "0b40dbcd9954b6aa2061b669f930054d09f0678e9bf934a786e0a64feeff8ac7",
-  "podpis": "MEQCIGlHExTQxLa4fwPTkgLqa6QWVSZDlT8k4dlHWj4TE/d7AiAbvA32sNYXYknqVI7SVvv4UalajQH7kYOT5yyCsl5ZMQ=="
+  "numer": 1000,
+  "wersja": "v10.0 (2026-10-05)",
+  "url": "https://raw.githubusercontent.com/marcinszczepanek/termalica-aktualizacje/main/firmware-1000.bin",
+  "rozmiar": 1342608,
+  "sha256": "6cdf7f1511cfe5760be8931919958ef263d94662a8a0c52ff9734d8a4f5d4ec1",
+  "podpis": "MEYCIQCBHOnas77LdzIg9WEEIOob8eMHH0vifJWXOHQDcJ2U3gIhAO75Znh4IH05HWMrPr6NMoaIQxpcHTyppwG0lYQCHuwR"
 }
