@@ -1,8 +1,8 @@
 {
-  "numer": 1001,
-  "wersja": "v10.1 (2026-10-06)",
-  "url": "https://raw.githubusercontent.com/marcinszczepanek/termalica-aktualizacje/main/firmware-1001.bin",
-  "rozmiar": 1343808,
-  "sha256": "f6615eeb88afe7e1ab08f1f7b0a1fd938f341044370cfaf88dce695981ea6a2f",
-  "podpis": "MEUCIGcqOUNUK5u+jZkoW8Zxf38Gd9z50PbPDoIxuig9VnFJAiEArdn2xmcCy6L59r24OLgUoIYBHt/PAH+fZWUrVByB71A="
+  "numer": 1002,
+  "wersja": "v10.2 (2026-10-07)",
+  "url": "https://raw.githubusercontent.com/marcinszczepanek/termalica-aktualizacje/main/firmware-1002.bin",
+  "rozmiar": 1344000,
+  "sha256": "66cc57e919523abd4d32f05b8303fc3c7cde72fede931a089b54c67df22fe624",
+  "podpis": "MEQCIAIHnuXQWkRe/wS3dMsCb6Cv///DQioMDLLbt2ITq9ckAiAZlaVbIkOqoFKgsBqIREqmVaiBO9nsNVGxLejejybcOg=="
 }
